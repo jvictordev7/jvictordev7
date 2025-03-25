@@ -1,7 +1,7 @@
 
 ## Olá! Eu Sou o João Victor 🖐🏽
 
-[![linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-6417642ab/](https://www.linkedin.com/in/dev-joao-victor/))
+[![linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joao-victor/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o_joao_victorr?igsh=YTQwZjQ0NmI0OA==)
 [![whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5535998797004?text=Ol%C3%A1%20Tudo%20Bem%3F%20Vim%20Pelo%20GitHub)
 
