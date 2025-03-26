@@ -26,4 +26,4 @@
 
 
 
-#### 💻🚀 Apaixonado por tecnologia e inovação! 🌐✨
+#### 💻🚀 Apaixonado por tecnologia e inovação!! 🌐✨
