@@ -1,6 +1,12 @@
 
 ## Olá! Eu Sou o João Victor 🖐🏽 
 
+👋 Tenho 25 anos e sou apaixonado por tecnologia. Há 2 anos, venho me dedicando ao desenvolvimento Full Stack, criando aplicações web e mobile que unem performance e uma ótima experiência para os usuários.
+
+💡 Trabalho com HTML, CSS, JavaScript, React, React Native, Node.js, Next.js, TypeScript, PostgreSQL e MongoDB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário de Lavras, sempre buscando evoluir e aprender novas tecnologias.
+
+🚀 Meu objetivo é construir soluções digitais intuitivas, funcionais e escaláveis. Se quiser trocar uma ideia sobre tecnologia ou desenvolvimento, vamos conversar! Estou sempre aberto a novas conexões.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joao-victor/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o_joao_victorr?igsh=YTQwZjQ0NmI0OA==)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5535998797004?text=Ol%C3%A1%20Tudo%20Bem%3F%20Vim%20Pelo%20GitHub)
