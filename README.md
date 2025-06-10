@@ -1,7 +1,7 @@
 
 ## Olá! Eu Sou o João Victor 🖐🏽 
 
-👋 Tenho 25 anos e sou apaixonado por tecnologia. Há 2 anos, venho me dedicando ao desenvolvimento Full Stack, criando aplicações web e mobile que unem performance e uma ótima experiência para os usuários.
+👋 Tenho 26 anos e sou apaixonado por tecnologia. Há 2 anos, venho me dedicando ao desenvolvimento Full Stack, criando aplicações web e mobile que unem performance e uma ótima experiência para os usuários.
 
 💡 Trabalho com HTML, CSS, JavaScript, React, React Native, Node.js, Next.js, TypeScript, PostgreSQL e MongoDB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário de Lavras, sempre buscando evoluir e aprender novas tecnologias.
 
