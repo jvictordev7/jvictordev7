@@ -10,7 +10,7 @@ Possuo background em design, o que contribui para a criação de interfaces func
 Atualmente estou concluindo a graduação em Análise e Desenvolvimento de Sistemas e busco uma oportunidade como desenvolvedor para atuar em equipe, evoluir tecnicamente e contribuir com soluções de negócio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joao-victor/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o_joao_victorr?igsh=YTQwZjQ0NmI0OA==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaovictordev?igsh=YTQwZjQ0NmI0OA==)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5535998797004?text=Ol%C3%A1%20Tudo%20Bem%3F%20Vim%20Pelo%20GitHub)
 
 
