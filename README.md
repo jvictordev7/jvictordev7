@@ -1,11 +1,13 @@
 
 ## Olá! Eu Sou o João Victor 🖐🏽 
 
-👋 Tenho 26 anos e sou apaixonado por tecnologia. Há 2 anos, venho me dedicando ao desenvolvimento Full Stack, criando aplicações web e mobile que unem performance e uma ótima experiência para os usuários.
+Sou Desenvolvedor Full Stack com foco em aplicações web, atuando principalmente com Node.js, React e TypeScript.
 
-💡 Trabalho com HTML, CSS, JavaScript, React, React Native, Node.js, Next.js, TypeScript, PostgreSQL e MongoDB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário de Lavras, sempre buscando evoluir e aprender novas tecnologias.
+Tenho experiência prática no desenvolvimento de sistemas web, APIs REST, integração de dados e organização de aplicações, seguindo boas práticas de código e versionamento.
 
-🚀 Meu objetivo é construir soluções digitais intuitivas, funcionais e escaláveis. Se quiser trocar uma ideia sobre tecnologia ou desenvolvimento, vamos conversar! Estou sempre aberto a novas conexões.
+Possuo background em design, o que contribui para a criação de interfaces funcionais e bem estruturadas, além de uma boa comunicação com equipes e usuários finais.
+
+Atualmente estou concluindo a graduação em Análise e Desenvolvimento de Sistemas e busco uma oportunidade como desenvolvedor para atuar em equipe, evoluir tecnicamente e contribuir com soluções de negócio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joao-victor/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o_joao_victorr?igsh=YTQwZjQ0NmI0OA==)
